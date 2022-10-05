@@ -1,6 +1,6 @@
 # graph-coloring-z3
 
-A Java 
+A Java program which solves the graph coloring problem using z3, a theorem prover
 
 To modify input, change input.txt with the following format:
 
